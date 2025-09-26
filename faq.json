@@ -1,74 +1,38 @@
-{
-  "Q&A": [
-    {
-      "question": "What is Dharma Samrakshana Nidhi?",
-      "answer": "It is a fund that is exclusively created to uphold and spread Sanatana Dharma through various dharmic initiatives."
-    },
-    {
-      "question": "What is the Dharma Mithra program?",
-      "answer": "It is a structured approach to contribute to the Dharma Samrakshana Nidhi on a monthly basis or a yearly one-time contribution."
-    },
-    {
-      "question": "How does the Dharma Mithra program help the Trust?",
-      "answer": "Assured income through recurring donation gives the Trust the confidence to plan activities well ahead of time and execute them smoothly without worrying about fund availability. The scale of an event or activity can also be appropriately planned."
-    },
-    {
-      "question": "What are the advantages for donors?",
-      "answer": "Joining as a Dharma Mithra gives donors the satisfaction of directly supporting every dharmic activity of the Trust with assured contributions. By joining hands with other donors, even small contributions make a significant impact in spreading and promoting Dharma."
-    },
-    {
-      "question": "How do I sign up to become a Dharma Mithra?",
-      "answer": {
-        "options": [
-          {
-            "type": "Monthly",
-            "frequency": "Recurring",
-            "steps": [
-              "Set up transfers with standing instructions",
-              "Notify 94948 77070 after setup"
-            ]
-          },
-          {
-            "type": "Yearly",
-            "frequency": "One-time",
-            "conditions": "Rs. 5116/- or above",
-            "steps": [
-              "Transfer the amount",
-              "Notify 94948 77070 after transferring"
-            ]
-          }
-        ],
-        "note": "All transfers should be made only into the official account of Dharma Samrakshana Nidhi."
-      }
-    },
-    {
-      "question": "What’s the suggested amount for monthly commitment?",
-      "answer": [
-        { "amount_per_month": "₹ 330", "equivalent_per_day": "₹ 11" },
-        { "amount_per_month": "₹ 630", "equivalent_per_day": "₹ 21" },
-        { "amount_per_month": "₹ 1530", "equivalent_per_day": "₹ 51" },
-        { "amount_per_month": "₹ 3030", "equivalent_per_day": "₹ 101" }
-      ]
-    },
-    {
-      "question": "Is there a specific date in the year to sign up to the Dharma Mithra program?",
-      "answer": "Members can sign up at any time on a rolling basis."
-    },
-    {
-      "question": "What’s the minimum duration for the monthly commitment?",
-      "answer": "There’s no end date or minimum duration, although the trust would prefer it to be at least 12 months from the time of signing up."
-    },
-    {
-      "question": "May I make changes to my monthly commitment at any point?",
-      "answer": "Yes. You may update your committed amount, transfer date, or even opt out of the program any time."
-    },
-    {
-      "question": "Will the trust still accept general donations?",
-      "answer": "Yes. People are welcome to donate any amount. Even Dharma Mithra members can make additional one-time donations any time of the year."
-    },
-    {
-      "question": "Are my donations eligible for tax exemption under section 80G?",
-      "answer": "Yes. All donations made to KC Das Trust, recurring or one-time, are eligible for section 80G exemption."
-    }
-  ]
-}
+[
+  {
+    "question": "What is Dharma Samrakshana Nidhi?",
+    "answer": "It is a fund that is exclusively created to uphold and spread Sanatana Dharma through various dharmic initiatives."
+  },
+  {
+    "question": "What is the Dharma Mithra program?",
+    "answer": "It is a structured approach to contribute to the Dharma Samrakshana Nidhi on a monthly basis or a yearly one-time contribution."
+  },
+  {
+    "question": "How does the Dharma Mithra program help the Trust?",
+    "answer": "Such an assured income through recurring donation gives the Trust the confidence to plan activities well ahead of time and execute them smoothly without having to think about fund availability. The scale of an event or activity can also be appropriately planned."
+  },
+  {
+    "question": "What are the advantages for donors?",
+    "answer": "Joining as a Dharma Mithra gives the donors satisfaction that they are directly supporting every dharmic activity of the Trust with their assured contributions. By joining hands with other donors in the Dharma Mithra program, your individual contributions, no matter how small, will go a long way in making a significant impact in the Trust’s mission to spread and promote Dharma."
+  },
+  {
+    "question": "Is there a specific date in the year to sign up to the Dharma Mithra program?",
+    "answer": "Members can sign up at any time on a rolling basis."
+  },
+  {
+    "question": "What’s the minimum duration for the monthly commitment?",
+    "answer": "There’s no end date or minimum duration to this commitment although the trust would prefer it to be at least for 12 months from the time of signing up."
+  },
+  {
+    "question": "May I make changes to my monthly commitment at any point?",
+    "answer": "Yes. You may update your committed amount, transfer date or even opt out of the program any time. It is really that easy."
+  },
+  {
+    "question": "Will the trust still accept general donations?",
+    "answer": "Yes. People are most welcome to donate any amount. There is no restriction to it. Even people who are already in the Dharma Mithra program can make additional one-time donations any time of the year."
+  },
+  {
+    "question": "Are my donations eligible for tax exemption under section 80G?",
+    "answer": "Yes. All donations made to KC Das Trust, recurring or one-time, are eligible towards section 80G."
+  }
+]
